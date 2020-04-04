@@ -1,0 +1,4 @@
+welcome to the class of c++.
+today we are going to learn about file handling.
+in file handling we will learn text files.
+in text file the file is readable and editable. 

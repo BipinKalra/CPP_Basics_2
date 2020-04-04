@@ -1,0 +1,4 @@
+bsearch
+lsearch
+bubblesort
+selectionsort
